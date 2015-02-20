@@ -1,0 +1,6 @@
+# 'guid' = ['id_1', ['id_2', 'id_3', 'id_4'], ['id_5', 'id_6']]
+
+'enen-verb-provide-001' = ['ruru-verb-obespechivat-001']
+'enen-verb-manage-001' = ['ruru-verb-upravlyat-001']
+'enen-verb-assign-001' = ['ruru-verb-prednaznachat-001']
+'enen-verb-wish-001' = ['ruru-verb-zjelat-001']

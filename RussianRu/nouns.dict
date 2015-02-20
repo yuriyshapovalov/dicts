@@ -1,4 +1,11 @@
 # Dictionaty contains english words in predefined format
->English(en-uk)
-[id] 	[word]	[group]		[spelling]
-1	run	verb		'ran'
+>Russian(ru-ru)
+[ruru-noun-chislo-001]          |   'число''
+[ruru-noun-bliznets-001]        |   'близнец''
+[ruru-noun-stvol-001]           |   'ствол''
+[ruru-noun-gravitatsiya-001]    |   'гравитация''
+[ruru-noun-golf-001]            |   'гольф''
+[ruru-noun-izgnanik-001]        |   'изгнанник''
+[ruru-noun-pechat-001]          |   'печать''
+[ruru-noun-provoloka-001]       |   'проволока''
+[ruru-noun-zalojnik-001]        |   'заложник''

@@ -1,4 +1,11 @@
 # Dictionaty contains english words in predefined format
 >English(en-uk)
-[id] 	[word]	[group]		[spelling]
-1	run	verb		'ran'
+[enen-noun-number-001]          |   'number'
+[enen-noun-twin-001]            |   'twin'
+[enen-noun-stem-001]            |   'stem'
+[enen-noun-gravity-001]         |   'gravity'
+[enen-noun-golf-001]            |   'golf'
+[enen-noun-outlaw-001]          |   'outlaw'
+[enen-noun-seal-001]            |   'seal'
+[enen-noun-wire-001]            |   'wire'
+[enen-noun-hostage-001]         |   'hostage'

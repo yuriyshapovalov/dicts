@@ -10,115 +10,115 @@
 [enen-noun-wire-001]            |   'wire'
 [enen-noun-hostage-001]         |   'hostage'
 
-set             набор, комплект
-departure       отправление
-charge          загрузка
-expedition      экспедиция
-rookie          новобранец
-none            никто
-training        обучение
-chess           шахматы
-proposal        предложение
-roof            крыша
-instead         вместо
-career          карьера
-born            рожденный
-moon            луна
-truck           грузовик
-war             война
-disadvantage    неудобство
-disposal        расположение
-parcel          сверток
-shoulder        плечо
-crew            экипаж
-suspense        беспокойство
-ambassador      посол
-house           дом
-refuge          убежище
-grain           зерно
-abroad          за границу
-sky             небо
-discharge       разгрузка
-ballot          тайное голосование
-value           ценность, величина
-committee       комитет
-ginger          имбирь
-son             сын
-investigation   исследование
-exchange        обмен
-flow            течение
-manufacture     производство
-side            сторона
-genius          гений
-wind            ветер
-witch           ведьма
-mansion         большой особняк
-decay           загнивание
-politics        политика
-advice          совет
-deck            палуба
-mouse           мышь
-chemist         химик
-unemployment    безработица
-winter          зима
-gear            коробка скоростей
-trade           торговля
-sea             море
-country         страна
-trend           тенденция
-irony           ирония
-honeymoon       медовый месяц
-tie             галстук
-hero            герой
-hoax            обман
-report          доклад
-wood            дерево
-age             возраст
-legislature     законодательный орган
-cost            цены
-coast           побережье
-glamour         обаяние
-grand           рояль
-potato          картофель
-episode         эпизод
-thread          нить
-edition         издание
-spy             шпион
-campaign        кампания
-tree            дерево
-maid            служанка
-reputation      репутация
-foot            нога
-headline        заголовок
-youngster       юнец
-companion       компаньон
-kitten          котенок
-life            жизнь
-engagement      занятие
-geography       география
-stop            остановка, перерыв
-transmission    передача
-plunge          ныряльщик, плунжер
-kingdom         королевство
-pride           гордость
-liquid          жидкость
-bond            облигации
-top             вершина
-conductor       проводник
-winner          победитель
-word            слово
-espionage       шпионаж
-bride           невеста
-drop            капля
-governor        губернатор
-poll            общий фонд
-topic           тема
-verdict         вердикт
-radio           радио
-wolf            волк
-snack           легкая закуска
-caution         осторожность
-lip             губа
-across          поперек
-history         история
-likelihood      вероятность
+[enen-noun-set-001]             |   'set'
+[enen-noun-departure-001]       |   'departure'
+[enen-noun-charge-001]          |   'charge'
+[enen-noun-expedition-001]      |   'expedition'
+[enen-noun-rookie-001]          |   'rookie'
+[enen-noun-none-001]            |   'none'
+[enen-noun-training-001]        |   'training'
+[enen-noun-chess-001]           |   'chess'
+[enen-noun-proposal-001]        |   'proposal'
+[enen-noun-roof-001]            |   'roof'
+[enen-noun-instead-001]         |   'instead'
+[enen-noun-career-001]          |   'career'
+[enen-noun-born-001]            |   'born'
+[enen-noun-moon-001]            |   'moon'
+[enen-noun-truck-001]           |   'truck'
+[enen-noun-war-001]             |   'war'
+[enen-noun-disadvantage-001]    |   'disadvantage'
+[enen-noun-disposal-001]        |   'disposal'
+[enen-noun-parcel-001]          |   'parcel'
+[enen-noun-shoulder-001]        |   'shoulder'
+[enen-noun-crew-001]            |   'crew'
+[enen-noun-suspense-001]        |   'suspense'
+[enen-noun-ambassador-001]      |   'ambassador'
+[enen-noun-house-001]           |   'house'
+[enen-noun-refuge-001]          |   'refuge'
+[enen-noun-grain-001]           |   'grain'
+[enen-noun-abroad-001]          |   'abroad'
+[enen-noun-sky-001]             |   'sky'
+[enen-noun-discharge-001]       |   'discharge'
+[enen-noun-ballot-001]          |   'ballot'
+[enen-noun-value-001]           |   'value'
+[enen-noun-committee-001]       |   'committee'
+[enen-noun-ginger-001]          |   'ginger'
+[enen-noun-son-001]             |   'son'
+[enen-noun-investigation-001]   |   'investigation'
+[enen-noun-exchange-001]        |   'exchange'
+[enen-noun-flow-001]            |   'flow'
+[enen-noun-manufacture-001]     |   'manufacture'
+[enen-noun-side-001]            |   'side'
+[enen-noun-genius-001]          |   'genius'
+[enen-noun-wind-001]            |   'wind'
+[enen-noun-witch-001]           |   'witch'
+[enen-noun-mansion-001]         |   'mansion'
+[enen-noun-decay-001]           |   'decay'
+[enen-noun-politics-001]        |   'politics'
+[enen-noun-advice-001]          |   'advice'
+[enen-noun-deck-001]            |   'deck'
+[enen-noun-mouse-001]           |   'mouse'
+[enen-noun-chemist-001]         |   'chemist'
+[enen-noun-unemployment-001]    |   'unemployment'
+[enen-noun-winter-001]          |   'winter'
+[enen-noun-gear-001]            |   'gear'
+[enen-noun-trade-001]           |   'trade'
+[enen-noun-sea-001]             |   'sea'
+[enen-noun-country-001]         |   'country'
+[enen-noun-trend-001]           |   'trend'
+[enen-noun-irony-001]           |   'irony'
+[enen-noun-honeymoon-001]       |   'honeymoon'
+[enen-noun-tie-001]             |   'tie'
+[enen-noun-hero-001]            |   'hero'
+[enen-noun-hoax-001]            |   'hoax'
+[enen-noun-report-001]          |   'report'
+[enen-noun-wood-001]            |   'wood'
+[enen-noun-age-001]             |   'age'
+[enen-noun-legislature-001]     |   'legislature'
+[enen-noun-cost-001]            |   'cost'
+[enen-noun-coast-001]           |   'coast'
+[enen-noun-glamour-001]         |   'glamour'
+[enen-noun-grand-001]           |   'grand'
+[enen-noun-potato-001]          |   'potato'
+[enen-noun-episode-001]         |   'episode'
+[enen-noun-thread-001]          |   'thread'
+[enen-noun-edition-001]         |   'edition'
+[enen-noun-spy-001]             |   'spy'
+[enen-noun-campaign-001]        |   'campaign'
+[enen-noun-tree-001]            |   'tree'
+[enen-noun-maid-001]            |   'maid'
+[enen-noun-reputation-001]      |   'reputation'
+[enen-noun-foot-001]            |   'foot'
+[enen-noun-headline-001]        |   'headline'
+[enen-noun-youngster-001]       |   'youngster'
+[enen-noun-companion-001]       |   'companion'
+[enen-noun-kitten-001]          |   'kitten'
+[enen-noun-life-001]            |   'life'
+[enen-noun-engagement-001]      |   'engagement'
+[enen-noun-geography-001]       |   'geography'
+[enen-noun-stop-001]            |   'stop'
+[enen-noun-transmission-001]    |   'transmission'
+[enen-noun-plunge-001]          |   'plunge'
+[enen-noun-kingdom-001]         |   'kingdom'
+[enen-noun-pride-001]           |   'pride'
+[enen-noun-liquid-001]          |   'liquid'
+[enen-noun-bond-001]            |   'bond'
+[enen-noun-top-001]             |   'top'
+[enen-noun-conductor-001]       |   'conductor'
+[enen-noun-winner-001]          |   'winner'
+[enen-noun-word-001]            |   'word'
+[enen-noun-espionage-001]       |   'espionage'
+[enen-noun-bride-001]           |   'bride'
+[enen-noun-drop-001]            |   'drop'
+[enen-noun-governor-001]        |   'governor'
+[enen-noun-poll-001]            |   'poll'
+[enen-noun-topic-001]           |   'topic'
+[enen-noun-verdict-001]         |   'verdict'
+[enen-noun-radio-001]           |   'radio'
+[enen-noun-wolf-001]            |   'wolf'
+[enen-noun-snack-001]           |   'snack'
+[enen-noun-caution-001]         |   'caution'
+[enen-noun-lip-001]             |   'lip'
+[enen-noun-across-001]          |   'across'
+[enen-noun-history-001]         |   'history'
+[enen-noun-likelihood-001]      |   'likelihood'

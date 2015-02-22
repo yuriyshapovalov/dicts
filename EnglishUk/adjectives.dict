@@ -1,42 +1,39 @@
-British         британский
-
-# colors
-gray            серый
-
-uncomfortable   неудобный
-thorough        тщательный
-valid           имеющий силу
-capable         способный
-adverse         враждебный
-massive         массивный
-hesitant        колеблющийся
-hungry          голодный
-anonymous       анонимный
-outstanding     выдающийся
-talanted        талантливый
-wet             мокрый
-tough           жесткий
-wonderful       удивительный
-fond            любящий
-tiny            крошечный
-tribal          родовой, из племени
-complicated     усложненный
-tired           усталый
-rigid           жесткий
-alone           одинокий
-inexperienced   неопытный
-unofficial      неофициальный
-brave           храбрый
-gypsy           цыганский
-mighty          мощный
-beautiful       красивый
-bitter          горький
-good-natured    добродушный
-exclusive       исключительный
-anxious         беспокоящийся
-unanimous       единодушный
-fourth          четвертый
-urgent          неотложный
-tight           тугой
-usual           обычный
-legal           юридический
+[enen-adj-British-001]          |   'British'
+[enen-adj-gray-001]             |   'gray'
+[enen-adj-uncomfortable-001]    |   'uncomfortable'
+[enen-adj-thorough-001]         |   'thorough'
+[enen-adj-valid-001]            |   'valid'
+[enen-adj-capable-001]          |   'capable'
+[enen-adj-adverse-001]          |   'adverse'
+[enen-adj-massive-001]          |   'massive'
+[enen-adj-hesitant-001]         |   'hesitant'
+[enen-adj-hungry-001]           |   'hungry'
+[enen-adj-anonymous-001]        |   'anonymous'
+[enen-adj-outstanding-001]      |   'outstanding'
+[enen-adj-talanted-001]         |   'talanted'
+[enen-adj-wet-001]              |   'wet'
+[enen-adj-tough-001]            |   'tough'
+[enen-adj-wonderful-001]        |   'wonderful'
+[enen-adj-fond-001]             |   'fond'
+[enen-adj-tiny-001]             |   'tiny'
+[enen-adj-tribal-001]           |   'tribal'
+[enen-adj-complicated-001]      |   'complicated'
+[enen-adj-tired-001]            |   'tired'
+[enen-adj-rigid-001]            |   'rigid'
+[enen-adj-alone-001]            |   'alone'
+[enen-adj-inexperienced-001]    |   'inexperienced'
+[enen-adj-unofficial-001]       |   'unofficial'
+[enen-adj-brave-001]            |   'brave'
+[enen-adj-gypsy-001]            |   'gypsy'
+[enen-adj-mighty-001]           |   'mighty'
+[enen-adj-beautiful-001]        |   'beautiful'
+[enen-adj-bitter-001]           |   'bitter'
+[enen-adj-good-001]-natured     |   'good'
+[enen-adj-exclusive-001]        |   'exclusive'
+[enen-adj-anxious-001]          |   'anxious'
+[enen-adj-unanimous-001]        |   'unanimous'
+[enen-adj-fourth-001]           |   'fourth'
+[enen-adj-urgent-001]           |   'urgent'
+[enen-adj-tight-001]            |   'tight'
+[enen-adj-usual-001]            |   'usual'
+[enen-adj-legal-001]            |   'legal'

@@ -1,4 +1,4 @@
-[enen-adj-British-001]          |   'British'
+[enen-adj-enen-001]                     -adj-British-001]          |   'British' e
 [enen-adj-gray-001]             |   'gray'
 [enen-adj-uncomfortable-001]    |   'uncomfortable'
 [enen-adj-thorough-001]         |   'thorough'
@@ -37,25 +37,23 @@
 [enen-adj-tight-001]            |   'tight'
 [enen-adj-usual-001]            |   'usual'
 [enen-adj-legal-001]            |   'legal'
-
-
-expensive       дорогостоящий               dorogostoyashiy
-unaware         незнающий                   neznaushiy
-endless         бесконечный                 beskonechniy
-impossible      невозможный                 nevozmojniy
-intimate        интимный                    intimniy
-gloomy          мрачный                     mrachniy
-upper           верхний                     verkhniy
-internal        внутренний                  vnutrenniy
-shy             застенчевый                 zastenchiviy
-electronic      электронный                 elektronniy
-confident       уверенный                   uverenniy
-mad             сумашедший                  sumashedshiy
-public          общественный                obshestvenniy
-same            тот же самый                totjesamiy
-skilled         умелый                      umeliy
-explosive       взрывчатый                  vzrivchatiy
-effective       эффективный                 effectivniy
-magnificent     великолепный                velikolepniy
-cheerful        неунывающий                 neunivat
-right           правый                      praviy
+[enen-adj-expensive-001]        |   'expensive'
+[enen-adj-unaware-001]          |   'unaware'
+[enen-adj-endless-001]          |   'endless'
+[enen-adj-impossible-001]       |   'impossible'
+[enen-adj-intimate-001]         |   'intimate'
+[enen-adj-gloomy-001]           |   'gloomy'
+[enen-adj-upper-001]            |   'upper'
+[enen-adj-internal-001]         |   'internal'
+[enen-adj-shy-001]              |   'shy'
+[enen-adj-electronic-001]       |   'electronic'
+[enen-adj-confident-001]        |   'confident'
+[enen-adj-mad-001]              |   'mad'
+[enen-adj-public-001]           |   'public'
+[enen-adj-same-001]             |   'same'
+[enen-adj-skilled-001]          |   'skilled'
+[enen-adj-explosive-001]        |   'explosive'
+[enen-adj-effective-001]        |   'effective'
+[enen-adj-magnificent-001]      |   'magnificent'
+[enen-adj-cheerful-001]         |   'cheerful'
+[enen-adj-right-001]            |   'right'

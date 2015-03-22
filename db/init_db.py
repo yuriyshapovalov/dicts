@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+
+''' Database initializer
+
+This module implement database initializer which provide functionality to
+parse dict files, and update or create daabase content.
+'''
 import sys
 from pymongo import MongoClient
 

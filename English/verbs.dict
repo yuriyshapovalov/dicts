@@ -1,5 +1,5 @@
 # Dictionaty contains english words in predefined format
->English(en-uk)
+>English(en-uk) | verbs
 ['enen-verb-provide-001']            |   'provide'
 ['enen-verb-manage-001']             |   'manage'
 ['enen-verb-assign-001']             |   'assign'
@@ -128,108 +128,82 @@
 ['enen-verb-pounce-001']             |  'pounce'          
 ['enen-verb-congratulate-001']       |  'congratulate'    
 ['enen-verb-cook-001']               |  'cook'            
-
-
-hear            слышать
-fix             фиксировать
-estimate        оценивать
-dislike         не любить
-render          оказывать
-bear            нести
-enclose         вкладывать
-trim            подстригать
-talk            говорить
-raise           поднимать
-inaugurate      торжественно открывать
-convince        убеждать
-determine       определять
-split           расщеплять
-win             выигрывать
-represent       представлять
-ratify          ратифицировать
-turn            поворачивать
-push            толкать
-excite          возбуждать
-accompany       сопровождать
-survey          обозревать
-knock           стучать
-adhere          придерживаться
-chase           гнаться
-warn            предупреждать
-denounce        обвинять
-keep            хранить
-resume          возобновлять
-bite            кусать
-ride            ехать верхом
-draw            рисовать
-search          искать
-uphold          поддерживать
-compose         составлять
-whisper         шептать
-explain         объяснить
-quarrel         ссориться
-derive          извлекать
-drift           дрейфовать
-cool            охлаждать
-ignore          игнорировать
-surprise        удивлять
-attack          нападать
-differ          различаться
-disguise        маскировать
-evacuate        эвакуировать
-enable          давать возможность
-cut             резать
-share           делиться
-toss            метать
-think           думать
-overdo          перестараться
-assess          оценивать
-surround        окружать
-bore            сверлить
-undergo         подвергаться
-dodge           увернуться
-laugh           смеяться
-disturb         беспокоить
-bathe           купаться
-tack            лавировать  
-exhaust         истощать
-enter           входить
-inspect         инспектировать
-abolish         ликвидировать
-carry           нести
-confirm         подтвердить
-eject           извлекать
-pull            тянуть
-use             использовать
-save            сохранять
-approve         утвердить
-vary            изменяться
-grab            схватить
-worry           беспокоиться
-retain          удерживать
-enrich          обогащать
-expose          подвергать
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+hear                  | слышать
+fix                   | фиксировать
+estimate              | оценивать
+dislike               | не любить
+render                | оказывать
+bear                  | нести
+enclose               | вкладывать
+trim                  | подстригать
+talk                  | говорить
+raise                 | поднимать
+inaugurate            | торжественно открывать
+convince              | убеждать
+determine             | определять
+split                 | расщеплять
+win                   | выигрывать
+represent             | представлять
+ratify                | ратифицировать
+turn                  | поворачивать
+push                  | толкать
+excite                | возбуждать
+accompany             | сопровождать
+survey                | обозревать
+knock                 | стучать
+adhere                | придерживаться
+chase                 | гнаться
+warn                  | предупреждать
+denounce              | обвинять
+keep                  | хранить
+resume                | возобновлять
+bite                  | кусать
+ride                  | ехать верхом
+draw                  | рисовать
+search                | искать
+uphold                | поддерживать
+compose               | составлять
+whisper               | шептать
+explain               | объяснить
+quarrel               | ссориться
+derive                | извлекать
+drift                 | дрейфовать
+cool                  | охлаждать
+ignore                | игнорировать
+surprise              | удивлять
+attack                | нападать
+differ                | различаться
+disguise              | маскировать
+evacuate              | эвакуировать
+enable                | давать возможность
+cut                   | резать
+share                 | делиться
+toss                  | метать
+think                 | думать
+overdo                | перестараться
+assess                | оценивать
+surround              | окружать
+bore                  | сверлить
+undergo               | подвергаться
+dodge                 | увернуться
+laugh                 | смеяться
+disturb               | беспокоить
+bathe                 | купаться
+tack                  | лавировать  
+exhaust               | истощать
+enter                 | входить
+inspect               | инспектировать
+abolish               | ликвидировать
+carry                 | нести
+confirm               | подтвердить
+eject                 | извлекать
+pull                  | тянуть
+use                   | использовать
+save                  | сохранять
+approve               | утвердить
+vary                  | изменяться
+grab                  | схватить
+worry                 | беспокоиться
+retain                | удерживать
+enrich                | обогащать
+expose                | подвергать

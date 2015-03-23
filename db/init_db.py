@@ -58,7 +58,10 @@ class DictionaryParser(object):
             else:
                 try:
                     arr = string.split('|')
-                    print("{} - {}".format(arr[0], arr[1]))
+                    word_id = str(arr[0]).strip().translate(None, "[]'") 
+                    word = str(arr[1]).strip().translate(None, "'")
+                    self.dict.addWord(word_id, word)
+                    print("ID: '{}'\tWord: '{}'".format(word_id, word))
                 except:
                     raise Exception("Error: Dictionary format is incorrect")
 
@@ -69,11 +72,15 @@ class DictionaryParser(object):
 
         return self.dict
 
+class DatabaseMapper(object):
+
+    def __init__(self, connection_string)
+        self.context = MongoClient(connection_string)
 
 def main():
-    connection = MongoClient("mongodb://localhost/dicts");
+    DatabaseMapper("mongodb://localhost/dicts");
     parser = DictionaryParser()
-    parser.parse("../English/verbs.dict")
+    dictonary = parser.parse("../English/verbs.dict")
 
 
 if __name__ == '__main__':

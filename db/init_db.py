@@ -3,7 +3,7 @@
 ''' Database initializer
 
 This module implement database initializer which provide functionality to
-parse dict files, and update or create daabase content.
+parse dict files, and update or create database content.
 '''
 import sys
 from pymongo import MongoClient
@@ -17,7 +17,7 @@ class Dict(object):
         if word:
             self.words.append(Word(id, word))
 
-    def setMeta(self, language, category)
+    def setMeta(self, language, category):
         if language:
             self.language = language
 
@@ -40,35 +40,40 @@ class DictionaryParser(object):
         if not dict_path:
             raise Exception("Error: Path to dictionaty file is not provided")
 
+        def parseLine(string):
+            if not string:
+                raise Exception("Error: Line is empty")
+
+            if string[0] == '#':
+                return                        # skip comment string
+            elif string[0] == '>':
+                try:
+                    arr = string[1:].split('|')
+                    language = arr[0].strip()
+                    category = arr[1].strip()
+                    self.dict.setMeta(language, category)
+                    #print("language: {} \tcategory: {}".format(self.dict.language, self.dict.category))
+                except:
+                    raise Exception("Error: Dictionary title has incorrect format")
+            else:
+                try:
+                    arr = string.split('|')
+                    print("{} - {}".format(arr[0], arr[1]))
+                except:
+                    raise Exception("Error: Dictionary format is incorrect")
+
         self.dict = Dict()
         with open(dict_path, 'r') as file:
-            self.parseTitle(file.readline())
             for line in file:
-                self.parseWord(line)
+                parseLine(line)
 
         return self.dict
 
-        def parseTitle(self, string):
-            if not string:
-                raise Exception("Error: Title string is empty")
-            if string[0] not '>':
-                raise Exception("Error: Dictionary file format incorrect")
-            arr = string[1:].split('|')
-            language = arr[0].strip()
-            category = arr[1].strip()
-            self.dict.setMeta(language, category)
-
-        def parseWord(self, string):
-            if not string:
-                raise Exception("Error: Word string is empty")
-            arr = string.split('|')
-
-
 
 def main():
-    connection = MongoClient("connectionstring");
+    connection = MongoClient("mongodb://localhost/dicts");
     parser = DictionaryParser()
-    parser.parse()
+    parser.parse("../English/verbs.dict")
 
 
 if __name__ == '__main__':

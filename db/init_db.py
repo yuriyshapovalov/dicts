@@ -74,8 +74,11 @@ class DictionaryParser(object):
 
 class DatabaseMapper(object):
 
-    def __init__(self, connection_string)
+    def __init__(self, connection_string):
         self.context = MongoClient(connection_string)
+
+    def mapDictionary(self, dict):
+        pass
 
 def main():
     DatabaseMapper("mongodb://localhost/dicts");

@@ -77,7 +77,7 @@ class DatabaseMapper(object):
     def __init__(self, connection_string):
         self.context = MongoClient(connection_string)
 
-    def __del__(self):
+    def __exit__(self):
         self.context.close()
 
     def mapDictionary(self, dictionary):

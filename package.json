@@ -1,0 +1,22 @@
+{
+  "name": "dicts",
+  "version": "1.0.0",
+  "description": "Open dictionaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriyshapovalov/dicts.git"
+  },
+  "author": "Yuriy Shapovalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriyshapovalov/dicts/issues"
+  },
+  "homepage": "https://github.com/yuriyshapovalov/dicts#readme",
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  }
+}

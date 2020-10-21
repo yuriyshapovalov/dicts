@@ -54,3 +54,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+/node_modules
+package-lock.json

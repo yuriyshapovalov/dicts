@@ -23,3 +23,8 @@ const languages = [
     { name: 'swedish', path: "data/swedish" },
     { name: 'turkish', path: "data/turkish" },
 ];
+
+module.exports = {
+    assets,
+    languages
+};

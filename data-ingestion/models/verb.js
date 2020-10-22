@@ -1,11 +1,10 @@
 const mongoose = require('mongoose');
 
-const VerbSchema = mongoose.Schema("Verb", {
+const VerbSchema = mongoose.Schema({
     id: String,
     word: String,
     description: String,
     topic: String,
-    tags: [String],
     phonetic: String
 });
 

@@ -5,7 +5,7 @@ const VerbSchema = require('./models/verb');
 
 mongoose.connect('mongodb://localhost:27017/dicts');
 
-const Verb = mongoose.model("Verb", VerbSchema);
+const verb = mongoose.model("Verb", VerbSchema);
 
 // import ingestion config
 config.languages.map( language => {
@@ -20,7 +20,7 @@ config.languages.map( language => {
     });
 
     
-    let verb = new Verb(parseVerb());
+    let verb = verb(parseVerb());
 
 });
 

@@ -5,7 +5,8 @@ const VerbSchema = require('./models/verb');
 
 mongoose.connect('mongodb://localhost:27017/dicts');
 
-const verb = mongoose.model("Verb", VerbSchema);
+const Verb = mongoose.model("Verb", VerbSchema);
+console.log(Verb);
 
 // import ingestion config
 config.languages.map( language => {
@@ -19,9 +20,13 @@ config.languages.map( language => {
         }
     });
 
-    
-    let verb = verb(parseVerb());
-
+    let verb = new Verb({
+        id: "1adsdae2d",
+        name: "arabic",
+        description: "Arabic language",
+        topic: "linguistic",
+        phonetic: "arabick"
+    });
 });
 
 // parser functions

@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const VerbSchema = mongoose.Schema({
+const VerbSchema = new mongoose.Schema({
     id: String,
     word: String,
     description: String,

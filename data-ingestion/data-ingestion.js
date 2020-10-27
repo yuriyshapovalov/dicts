@@ -14,7 +14,13 @@ config.languages.map( language => {
     // get verbs
     config.assets.map( asset => {
         switch (asset.type) {
-            case 'verb': {
+            case 'verbs': {
+                console.log(asset.filename);
+            }; break;
+            case 'nouns': {
+                console.log(asset.filename);
+            }; break;
+            case 'pronouns': {
                 console.log(asset.filename);
             }; break;
         }

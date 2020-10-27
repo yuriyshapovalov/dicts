@@ -57,3 +57,5 @@ target/
 
 /node_modules
 package-lock.json
+
+/data-ingestion/key.js

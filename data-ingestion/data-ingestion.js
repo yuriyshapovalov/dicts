@@ -30,7 +30,7 @@ config.languages.map( language => {
         id: "1adsdae2d",
         name: "arabic",
         description: "Arabic language",
-        topic: "linguistic",
+        topic: "linguistic", // need to be changed to array
         phonetic: "arabick"
     });
 });
